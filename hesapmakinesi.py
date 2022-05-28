@@ -15,4 +15,4 @@ elif islem == "/":
     sonuc = sayi1 / sayi2
     print("Bölüm",sonuc)
 else:
-    print("Hatalısınız! \nAma üzülmeyin hatasız kul olmaz.")
+    print("Hatalı! \nTEKRAR DENEYİNİZ.")
